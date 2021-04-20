@@ -103,7 +103,7 @@ To learn more about forking, read ["For a Repo"](https://docs.github.com/en/gith
 
 * Go to the **Actions** tab, try and set up the "_Simple Workflow_". After choosing "**_Start commit_**", figure out what has happened. (It's okay, you don't need to tell us!)
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-
+ 
 ## 📝 Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
